@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/ytdl-org/youtube-dl.svg?branch=master)](https://travis-ci.org/ytdl-org/youtube-dl)
 
-youtube-dl - download videos from youtube.com or other video platforms
+# youtube-dl - Alex's Copy of YT-DL, since it has got taken down before
 
 - [INSTALLATION](#installation)
 - [DESCRIPTION](#description)
